@@ -1,0 +1,7 @@
+20:06:51.970 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0xee5be1630f3c4344
+20:06:52.383 [main] INFO  resources.base - Driver is initialized
+20:07:00.125 [main] INFO  resources.base - Navigated to HomePage
+20:07:00.563 [main] INFO  resources.base - enter the value
+20:07:16.071 [main] INFO  resources.base - succesfully click the apply button
+20:09:17.035 [main] INFO  resources.base - Driver is initialized
+20:09:23.440 [main] INFO  resources.base - Navigated to HomePage
